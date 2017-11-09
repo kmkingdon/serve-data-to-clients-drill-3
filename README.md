@@ -1,3 +1,6 @@
+## Deployed Heroku url: 
+https://salty-scrubland-39509.herokuapp.com/
+
 ## Instructions
 
 Using the included `.csv` dataset:
